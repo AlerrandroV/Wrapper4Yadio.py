@@ -187,9 +187,9 @@ except ValueError as e:
 ## Doações
 O projeto é livre para todos de forma gratuita, mas se for usar a biblioteca para fins lucrativos, considere uma doação. Serei muito grato ;)
 
-**🔗 OnChain**: `bc1q7relhks9wvzzlky2vwfm4t8f8vhn05jx4uhgs6`
-**⚡ Lightning**: `alerrandrov@blink.sv`
-**❖ PIX**: `v.alerrandro.t@hotmail.com`
+* **🔗 OnChain**: `bc1q7relhks9wvzzlky2vwfm4t8f8vhn05jx4uhgs6`
+* **⚡ Lightning**: `alerrandrov@blink.sv`
+* **❖ PIX**: `v.alerrandro.t@hotmail.com`
 
 ---
 ## Licença
