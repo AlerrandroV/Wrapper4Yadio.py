@@ -1,6 +1,6 @@
 # Yadio API Não Oficial
 
-Uma biblioteca Python não oficial para interagir com a API do Yadio.io, fornecendo cotações de criptomoedas, conversões, dados históricos e análises de mercado. Ela foi criada para minimizar ainda mais o uso de código para fazer as requisições. Esta biblioteca é de código aberto, livre para qualquer um usar como quiser.
+Uma biblioteca Python não oficial para interagir com a API do Yadio.io, fornecendo cotações de criptomoedas, conversões, dados históricos e análises de mercado. Ela foi criada para minimizar ainda mais o uso de código para fazer as requisições. Esta biblioteca usa uma [licença MIT](./LICENSE.txt).
 
 ---
 ## Glossário
