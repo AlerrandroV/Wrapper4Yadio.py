@@ -30,6 +30,7 @@ Uma biblioteca Python não oficial para interagir com a API do Yadio.io, fornece
 
 ---
 ## Instalação
+No **diretório do projeto** cole:
 
 ```shell
 git clone 'https://github.com/AlerrandroV/Wrapper4Yadio.py'
